@@ -59,6 +59,13 @@ NASA Turbofan Engine Dataset (CMAPSS)
 
 ---
 
+## ⚡ Real-World Integration
+
+In a production environment, this system can be integrated with:
+- MES / SCADA systems
+- OPC-UA / MQTT data streams
+- Real-time monitoring dashboards
+
 ## ▶️ How to Run
 
 ```bash
