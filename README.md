@@ -60,3 +60,9 @@ NASA Turbofan Engine Dataset (CMAPSS)
 > Dashboard visualization
 > GenAI assistant for root cause analysis
 
+▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+python src/explore_data.py
+python src/train_model.py
