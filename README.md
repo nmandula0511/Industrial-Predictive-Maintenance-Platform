@@ -1,8 +1,8 @@
-\# 🏭 Industrial AI Platform – Predictive Maintenance
+🏭 Industrial AI Platform – Predictive Maintenance
 
 
 
-\## 📌 Problem Statement
+📌 Problem Statement
 
 Manufacturing systems face unplanned downtime due to unexpected machine failures.
 
@@ -22,7 +22,7 @@ This project builds an AI-driven predictive maintenance system to:
 
 
 
-\## 🚀 Solution Overview
+🚀 Solution Overview
 
 An end-to-end ML pipeline that processes industrial sensor data and predicts machine failure.
 
@@ -38,7 +38,7 @@ Data → Feature Engineering → ML Model → RUL Prediction → OEE Metrics
 
 
 
-\## 🧠 Features
+🧠 Features
 
 
 
@@ -56,7 +56,7 @@ Data → Feature Engineering → ML Model → RUL Prediction → OEE Metrics
 
 
 
-\## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 
 
@@ -74,7 +74,7 @@ Data → Feature Engineering → ML Model → RUL Prediction → OEE Metrics
 
 
 
-\## 📊 Dataset
+📊 Dataset
 
 
 
@@ -86,7 +86,7 @@ NASA Turbofan Engine Dataset (CMAPSS)
 
 
 
-\## 📈 Results
+📈 Results
 
 
 
@@ -108,7 +108,7 @@ NASA Turbofan Engine Dataset (CMAPSS)
 
 
 
-\## 🏭 Business Impact
+🏭 Business Impact
 
 
 
@@ -126,7 +126,7 @@ NASA Turbofan Engine Dataset (CMAPSS)
 
 
 
-\## 🔮 Future Improvements
+🔮 Future Improvements
 
 
 
@@ -136,5 +136,16 @@ NASA Turbofan Engine Dataset (CMAPSS)
 
 \- Dashboard visualization
 
-\- GenAI assistant for root cause analysis
+🏗️ Architecture
+
+
+
+Sensor Data → Feature Engineering → ML Model → RUL Prediction → OEE Metrics → Insights
+
+&#x20;> GenAI assistant for root cause analysis
+⚡ Scalability
+
+
+
+This system can be extended to real-time streaming using MQTT/OPC-UA and deployed via FastAPI for shop floor integration.
 
