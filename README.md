@@ -1,3 +1,6 @@
+## 🏗️ Architecture
+Data Ingestion → Preprocessing → Feature Engineering → Model Training → Prediction → KPI Calculation (OEE)
+
 # 🏭 Industrial AI Platform – Predictive Maintenance
 
 ## 📌 Problem Statement
@@ -15,13 +18,6 @@ An end-to-end ML pipeline that processes industrial sensor data and predicts mac
 
 **Pipeline:**  
 Data → Feature Engineering → ML Model → RUL Prediction → OEE Metrics → Insights
-
----
-
-## 🏗️ Architecture
-Data Ingestion → Preprocessing → Feature Engineering → Model Training → Prediction → KPI Calculation (OEE)
-
----
 
 ## 🧠 Features
 - Predict Remaining Useful Life (RUL)
