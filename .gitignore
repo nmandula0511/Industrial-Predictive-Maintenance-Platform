@@ -2,3 +2,14 @@ venv/
 __pycache__/
 *.pyc
 .env
+
+# Large datasets & generated artifacts
+data/fleet_telemetry_large.csv
+models/
+faiss_index/
+
+# Testing & caching
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store

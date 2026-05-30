@@ -6,3 +6,10 @@ faiss-cpu
 streamlit
 pydantic
 python-dotenv
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+sentence-transformers
+requests
