@@ -43,6 +43,9 @@ Detailed architecture components are documented in the [Architecture Guide](file
  └──────────────┘     └──────────────┘     └──────────────┘
 ```
 
+> [!TIP]
+> **Show Me the Pipeline**: For an interactive walk-through of the Explanatory Data Analysis (EDA), vectorized rolling window feature engineering, model fitting metrics, and simulated OEE mapping, check out the [Prognostics Pipeline Notebook](file:///c:/Users/navee/Industrial-Predictive-Maintenance-Platform/notebooks/predictive_maintenance_pipeline.ipynb).
+
 ---
 
 ## 🛠️ Tech Stack
@@ -64,6 +67,8 @@ Detailed architecture components are documented in the [Architecture Guide](file
 │   └── maintenance_manual.md   # Troubleshooting manuals for RAG
 ├── docs/                       # System Documentation
 │   └── architecture.md         # Component details and system chart
+├── notebooks/                  # Interactive Pipeline Walkthroughs
+│   └── predictive_maintenance_pipeline.ipynb # EDA, Feature engineering, ML training, & OEE plots
 ├── models/                     # Serialized Model & Scaler PKLs
 ├── rag/                        # RAG ingestion and retrieval logic
 │   ├── ingestion.py            # FAISS indexer
